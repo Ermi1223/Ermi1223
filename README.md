@@ -41,12 +41,6 @@ I am a dedicated Software Engineer with expertise in **Machine Learning**, **Art
 
 ---
 
-## GitHub Statistics
-
-![Ermiyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermi1223&show_icons=true&theme=radical)
-
----
-
 ## Connect with Me
 
 I’m always interested in connecting with like-minded professionals and discussing exciting projects.  
