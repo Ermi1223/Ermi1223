@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ermiyas Gebreegziabiher  
-### Software Engineer | AI & Machine Learning Specialist | Backend Developer
+### Software Engineer |  AI & Machine Learning Enthusiast | Backend Developer
 
 ---
 
@@ -10,18 +10,19 @@
 
 ---
 
-## About Me
+### 💫 About Me
 
 I am a dedicated Software Engineer with expertise in **Machine Learning**, **Artificial Intelligence**, and developing **scalable backend systems** using Python and Django. I focus on delivering data-driven solutions that solve real-world problems while ensuring performance and security.
 
-- Continuous learner with a strong interest in advanced ML algorithms and system architecture  
-- Currently exploring the integration of AI and blockchain technologies  
-- Open to collaborations and innovative projects that challenge my skills  
-- Detail-oriented and committed to writing clean, efficient code  
+
+- 🌱 Lifelong learner constantly exploring new ML algorithms
+- 👀 Currently focused on integrating AI with real-world applications
+- 🤝 Open to collaborations and exciting projects that challenge me  
+- 🌙 Night owl coder — sometimes late responses, but always thorough! 
 
 ---
 
-## Technical Skills
+### 💻 Tech Stack
 
 **Languages:** Python | JavaScript | Java
 **Frameworks & Libraries:** Django | Flask | TensorFlow | Scikit-learn  
@@ -31,14 +32,11 @@ I am a dedicated Software Engineer with expertise in **Machine Learning**, **Art
 
 ---
 
-## Certifications
+### 🏆 Certifications
 
-- Artificial Intelligence Specializations
-- Machine Learning Specializations 
-- Deep Learning Specializations  
-- Natural Language Processing Specializations  
+- AI, Machine Learning, Deep Learning & NLP Specializations
+
  
-
 ---
 
 ## Connect with Me
