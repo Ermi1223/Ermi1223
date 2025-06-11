@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ermiyas Gebreegziabiher  
-### Software Engineer |  AI & Machine Learning Enthusiast | Backend Developer
+### Software Engineer |  AI & Machine Learning Enthusiast
 
 ---
 
