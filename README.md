@@ -6,7 +6,7 @@
 📍 Addis Ababa, Ethiopia  
 🔗 [LinkedIn](https://www.linkedin.com/in/ermiyas-gebreegziabiher-262321224)
 💻 [GitHub](https://github.com/Ermi1223)
-✉️ ermi8n@gmail.com  
+✉️ ermi1223b@gmail.com  
 
 ---
 
@@ -25,9 +25,13 @@ I am a dedicated Software Engineer with expertise in **Machine Learning**, **Art
 ### 💻 Tech Stack
 
 **Languages:** Python | JavaScript | Java
+
 **Frameworks & Libraries:** Django | Flask | TensorFlow | Scikit-learn  
-**Databases:** PostgreSQL | MySQL  
-**Tools & Platforms:** Git | Docker | AWS |
+
+**Databases:** PostgreSQL | MySQL 
+
+**Tools & Platforms:** Git | Docker
+
 **Soft Skills:** Problem-solving | Teamwork | Communication | Leadership
 
 ---
@@ -35,7 +39,7 @@ I am a dedicated Software Engineer with expertise in **Machine Learning**, **Art
 ### 🏆 Certifications
 
 - AI, Machine Learning, Deep Learning & NLP Specializations
-
+- Software design and architecture Specialization
  
 ---
 
