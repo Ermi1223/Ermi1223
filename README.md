@@ -1,12 +1,10 @@
-
 <h3 align="center">🧑‍💻 Ermiyas Gebreegziabiher</h3>
 <h4 align="center">Software Engineer | AI & Machine Learning Specialist</h4>
 <p align="center">📍 Addis Ababa, Ethiopia</p>
 
-
+```python
 # Building intelligent systems that solve real-world challenges
 from innovation import scalable_solutions
-
 
 #### 🔧 Technical Stack
 
