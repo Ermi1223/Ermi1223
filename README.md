@@ -7,7 +7,6 @@
 # Building intelligent systems that solve real-world challenges
 from innovation import scalable_solutions
 
----
 
 #### 🔧 Technical Stack
 
