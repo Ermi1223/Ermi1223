@@ -1,7 +1,6 @@
-
 ```markdown
-🧑‍💻 Ermiyas Gebreegziabiher 
-Software Engineer | AI/ML Enthusiast
+ 🧑‍💻 Ermiyas Gebreegziabiher 
+Software Engineer | AI/ML Specialist
 📍 Addis Ababa, Ethiopia  
 
 ```python
@@ -32,11 +31,9 @@ print("Transforming complex problems into intelligent solutions")
 ---
 
 #### 📜 Certifications
-[![AI/ML Specialization](https://img.shields.io/badge/AI%2FML_Specialization-8A2BE2)](https://coursera.org/share/9b89df66cc30db6a7a0f62f30cc53a6f)
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00)](https://www.coursera.org/specializations/deep-learning)
-[![Software Architecture](https://img.shields.io/badge/Software_Architecture-092E20)](https://www.edx.org/course/software-architecture)
-
-
+- ![ML Specialization](https://img.shields.io/badge/AI%2FML_Specialization-8A2BE2)
+- ![Deep Learning Specialization](https://img.shields.io/badge/Deep_Learning Specialization-FF6F00)
+- ![Software Design and Architecture Specialization](https://img.shields.io/badge/Software_Design and Architecture Specialization-092E20)
 
 ---
 
