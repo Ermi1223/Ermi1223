@@ -32,9 +32,10 @@ print("Transforming complex problems into intelligent solutions")
 ---
 
 #### 📜 Certifications
-[![AI/ML Specialization](https://img.shields.io/badge/AI%2FML_Specialization-8A2BE2)][(https://www.coursera.org/specializations/machine-learning)](https://coursera.org/share/9b89df66cc30db6a7a0f62f30cc53a6f)
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00)]([https://www.coursera.org/specializations/deep-learning](https://coursera.org/share/ba881ce2613d72c85c419651350b749a))
+[![AI/ML Specialization](https://img.shields.io/badge/AI%2FML_Specialization-8A2BE2)](https://coursera.org/share/9b89df66cc30db6a7a0f62f30cc53a6f)
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00)](https://www.coursera.org/specializations/deep-learning)
 [![Software Architecture](https://img.shields.io/badge/Software_Architecture-092E20)](https://www.edx.org/course/software-architecture)
+
 
 
 ---
