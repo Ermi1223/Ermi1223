@@ -1,5 +1,5 @@
 <h3 align="center">🧑‍💻 Ermiyas Gebreegziabiher</h3>
-<h4 align="center">Software Engineer | AI & Machine Learning Specialist</h4>
+<h4 align="center">Software Engineer | AI & Machine Learning Enthusiast</h4>
 <p align="center">📍 Addis Ababa, Ethiopia</p>
 
 # Building intelligent systems that solve real-world challenges
