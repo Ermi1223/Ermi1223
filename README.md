@@ -2,7 +2,6 @@
 <h4 align="center">Software Engineer | AI & Machine Learning Specialist</h4>
 <p align="center">📍 Addis Ababa, Ethiopia</p>
 
-```python
 # Building intelligent systems that solve real-world challenges
 from innovation import scalable_solutions
 ```
@@ -66,5 +65,3 @@ from innovation import scalable_solutions
   <i>"Engineering solutions that bridge AI innovation with real-world impact"</i><br>
   <b>Open for collaborations on meaningful technical projects</b> 💡
 </p>
-```
-
