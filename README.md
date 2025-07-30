@@ -1,6 +1,4 @@
 
-
-```markdown
 <h3 align="center">🧑‍💻 Ermiyas Gebreegziabiher</h3>
 <h4 align="center">Software Engineer | AI & Machine Learning Specialist</h4>
 <p align="center">📍 Addis Ababa, Ethiopia</p>
@@ -69,5 +67,5 @@ from innovation import scalable_solutions
   <i>"Engineering solutions that bridge AI innovation with real-world impact"</i><br>
   <b>Open for collaborations on meaningful technical projects</b> 💡
 </p>
-```
+
 
