@@ -1,12 +1,13 @@
 
+
 ```markdown
 <h3 align="center">🧑‍💻 Ermiyas Gebreegziabiher</h3>
-<h4 align="center">Software Engineer | AI & Machine Learning Enthusiast</h4>
+<h4 align="center">Software Engineer | AI & Machine Learning Specialist</h4>
 <p align="center">📍 Addis Ababa, Ethiopia</p>
 
 ```python
-# Transforming complex problems into intelligent solutions
-import innovation
+# Building intelligent systems that solve real-world challenges
+from innovation import scalable_solutions
 ```
 ---
 
@@ -23,29 +24,29 @@ import innovation
 ---
 
 #### 🚀 Core Expertise
-- **Machine Learning Systems**: End-to-end development from prototyping to production deployment
+- **Machine Learning Systems**: End-to-end development from prototyping to production
 - **Backend Architecture**: Building scalable APIs and microservices
-- **AI Integration**: Implementing computer vision and NLP solutions
+- **AI Integration**: Implementing NLP and computer vision solutions
 - **Performance Optimization**: Algorithm efficiency & database tuning
-- **MLOps**: Containerized model deployment and CI/CD pipelines
+- **MLOps**: Containerized deployment with CI/CD pipelines
 
 ---
 
 #### 📜 Certifications
-- <img src="https://img.shields.io/badge/AI_&_Machine_Learning_Specialization-8A2BE2" alt="AI/ML Specialization"> 
+- <img src="https://img.shields.io/badge/AI_&_ML_Specialization-8A2BE2" alt="AI/ML Specialization"> 
 - <img src="https://img.shields.io/badge/Deep_Learning_&_NLP-FF6F00" alt="Deep Learning & NLP"> 
 - <img src="https://img.shields.io/badge/Software_Architecture-092E20" alt="Software Architecture">
 
 ---
 
-#### 🌙 Developer Profile
+#### 🌙 Development Approach
 ```json
 {
-  "current_focus": "Production-grade AI systems",
-  "development_approach": "Test-driven & modular",
-  "learning_principle": "Continuous improvement",
-  "collaboration_status": "Open to innovative projects",
-  "work_pattern": "Deep work sessions 🦉"
+  "focus": "Production-grade AI systems",
+  "methodology": "Test-driven development",
+  "learning": "Continuous skill advancement",
+  "collaboration": "Open to innovative projects",
+  "work_style": "Deep focus sessions"
 }
 ```
 
@@ -53,19 +54,20 @@ import innovation
 
 #### 📬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ermiyas-gebreegziabiher-262321224">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/ermiyas-gebreegziabiher-262321224" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-%230A66C2?logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:ermi1223b@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?logo=gmail" alt="Email">
   </a>
-  <a href="https://github.com/Ermi1223">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github" alt="GitHub">
+  <a href="https://github.com/Ermi1223?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?logo=github" alt="GitHub Projects">
   </a>
 </p>
 
 <p align="center">
-  <i>"Engineering solutions that bridge AI potential with real-world impact"</i><br>
-  <b>Open for collaborations on innovative projects</b> 💡
+  <i>"Engineering solutions that bridge AI innovation with real-world impact"</i><br>
+  <b>Open for collaborations on meaningful technical projects</b> 💡
 </p>
 ```
+
